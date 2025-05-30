@@ -25,7 +25,7 @@
       "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_REPLY": {
